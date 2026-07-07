@@ -8,7 +8,7 @@ I work on the [Contentstack documentation site](https://www.contentstack.com/doc
 - Part of the team that runs **docsite analytics** using Microsoft Clarity and Swiftype.
 - **Reviewed and restructured** product docs and developer docs drafted by junior writers.
 - Contributed to **ideating the troubleshooting portal** for Contentstack — templated the structure and pulled supporting information from the customer Salesforce database.
-- Collaborated on building an **automation for AI-assisted doc creation**.
+- Collaborated on building an **automation for AI-assisted doc creation** — see End-to-End Documentation Workflow below.
 
 ## Sample Pages
 
@@ -21,4 +21,4 @@ I work on the [Contentstack documentation site](https://www.contentstack.com/doc
 
 ## End-to-End Documentation Workflow
 - Created an app using Google AI Studio to perform all stages of the DDLC in one place.
-- [Docs Ninja Agent](https://github.com/gladysdanielt/Docs-Ninja-Agent) 
+- [Docs Ninja Agent](https://htmlpreview.github.io/?https://github.com/gladysdanielt/Docs-Ninja-Agent/blob/main/index.html) 
