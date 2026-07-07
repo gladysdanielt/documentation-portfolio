@@ -19,6 +19,6 @@ I work on the [Contentstack documentation site](https://www.contentstack.com/doc
 - [FAQs](https://www.contentstack.com/docs/headless-cms/faqs)
 - [Troubleshooting — Installation, Initialization & Environments](https://www.contentstack.com/docs/headless-cms/installation-initialization-environments)
 
-##End-to-End Documentation Workflow
+## End-to-End Documentation Workflow
 - Created an app using Google AI Studio to perform all stages of the DDLC in one place.
 - [Docs Ninja Agent](https://github.com/gladysdanielt/Docs-Ninja-Agent) 
