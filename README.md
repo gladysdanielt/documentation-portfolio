@@ -36,3 +36,6 @@ Areas of expertise:
 - [Kissflow UI Screenshot 1](samples/kissflow-snagit-1.png)
 - [Kissflow UI Screenshot 2](samples/kissflow-snagit-2.png)
 - [SSPL BCG - Demo Video](samples/sspl-bcg-demo.mp4)
+- [Blog: The Role of Public Cloud in Digital Transformation](samples/digital-transformation-blog.md)
+- [Movie Review: Aladdin](samples/movie-review-aladdin.md)
+- [Business Requirement Spec Sample (Apollo/Encore)](samples/encore-brs-sample.md)
