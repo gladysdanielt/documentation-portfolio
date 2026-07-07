@@ -23,3 +23,16 @@ Areas of expertise:
 - Documentation Standards
 - AI Workflows
 - Documentation Templates
+
+### Samples
+
+- [Dice - Sample Guide](samples/dice-sample.pdf)
+- [Digital Signature for SRSL in Apollo - User Guide](samples/digital-signature-srsl-apollo-user-guide.pdf)
+- [Kissflow - Creator Guide](samples/kissflow-creator-guide.pdf)
+- [Kissflow - User Guide](samples/kissflow-user-guide.pdf)
+- [Swiggy - Quick Start Guide](samples/swiggy-quickstart-guide.pdf)
+- [Velocix Analytics - User Guide (sample)](samples/velocix-analytics-user-guide-sample.pdf)
+- [Webtools Admin Guide (sample screenshot)](samples/webtools-admin-guide-sample.jpg)
+- [Kissflow UI Screenshot 1](samples/kissflow-snagit-1.png)
+- [Kissflow UI Screenshot 2](samples/kissflow-snagit-2.png)
+- [SSPL BCG - Demo Video](samples/sspl-bcg-demo.mp4)
