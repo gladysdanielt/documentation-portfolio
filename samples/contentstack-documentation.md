@@ -1,0 +1,20 @@
+# Contentstack Documentation
+
+I work on the [Contentstack documentation site](https://www.contentstack.com/docs), contributing across writing, information architecture, analytics, and documentation automation.
+
+## Contributions
+
+- Contributed to the **redesign of the Contentstack documentation website**.
+- Part of the team that runs **docsite analytics** using Microsoft Clarity and Swiftype.
+- **Reviewed and restructured** product docs and developer docs drafted by junior writers.
+- Contributed to **ideating the troubleshooting portal** for Contentstack — templated the structure and pulled supporting information from the customer Salesforce database.
+- Collaborated on building an **automation for AI-assisted doc creation**.
+
+## Sample Pages
+
+- [User Docs — Headless CMS](https://www.contentstack.com/docs/headless-cms)
+- [API Docs — Content Management API](https://www.contentstack.com/docs/developers/apis/content-management-api)
+- [SDK Docs — .NET Content Delivery SDK Reference](https://www.contentstack.com/docs/developers/sdks/content-delivery-sdk/dot-net/reference)
+- [CLI Docs — CLI Authentication](https://www.contentstack.com/docs/headless-cms/cli-authentication)
+- [FAQs](https://www.contentstack.com/docs/headless-cms/faqs)
+- [Troubleshooting — Installation, Initialization & Environments](https://www.contentstack.com/docs/headless-cms/installation-initialization-environments)
