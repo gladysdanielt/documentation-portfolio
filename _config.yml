@@ -5,7 +5,7 @@ url: "https://gladysdanielt.github.io"
 baseurl: "/documentation-portfolio"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 
 locale: "en-US"
 search: true
@@ -30,9 +30,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gladysdanielt"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:gladys.tantepudi@gmail.com"
 
 footer:
   links:

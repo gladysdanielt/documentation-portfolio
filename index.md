@@ -8,7 +8,7 @@ header:
   actions:
     - label: "📚 View Documentation Samples"
       url: "/documentation-samples/"
-    - label: "👋 About Me"
+    - label: "🧑‍💼 About Me"
       url: "/about/"
 feature_row:
   - title: "📚 Documentation Samples"
@@ -16,7 +16,7 @@ feature_row:
     url: "/documentation-samples/"
     btn_label: "Explore"
     btn_class: "btn--primary"
-  - title: "🔧 API Documentation"
+  - title: "🔧 DevEx Documentation"
     excerpt: "API, SDK, and CLI reference docs I've reviewed and restructured."
     url: "/api-documentation/"
     btn_label: "Explore"
@@ -32,7 +32,7 @@ feature_row2:
     url: "/templates-checklists/"
     btn_label: "Explore"
     btn_class: "btn--primary"
-  - title: "📝 Technical Articles"
+  - title: "📝 Articles"
     excerpt: "Long-form writing samples — technical blogs and reviews."
     url: "/technical-articles/"
     btn_label: "Explore"
