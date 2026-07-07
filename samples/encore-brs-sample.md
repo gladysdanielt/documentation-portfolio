@@ -1,4 +1,10 @@
-# Apollo Broadcast — HZD Cargo Should Flow Auto from Master to Quotation
+---
+title: "Apollo Broadcast — HZD Cargo Should Flow Auto from Master to Quotation"
+permalink: /samples/encore-brs-sample/
+layout: single
+author_profile: false
+toc: true
+---
 
 | | |
 |---|---|

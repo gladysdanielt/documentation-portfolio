@@ -1,4 +1,9 @@
-# The Role of Public Cloud in Digital Transformation
+---
+title: "The Role of Public Cloud in Digital Transformation"
+permalink: /samples/digital-transformation-blog/
+layout: single
+author_profile: false
+---
 
 *A technical blog*
 

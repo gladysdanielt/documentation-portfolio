@@ -1,4 +1,9 @@
-# Aladdin — Movie Review
+---
+title: "Aladdin — Movie Review"
+permalink: /samples/movie-review-aladdin/
+layout: single
+author_profile: false
+---
 
 *A review on the movie Aladdin for a Children's magazine*
 

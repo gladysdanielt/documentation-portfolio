@@ -2,6 +2,8 @@
 
 Lead Technical Writer | Documentation Engineering | AI-assisted Documentation
 
+🔗 **Live portfolio site:** [gladysdanielt.github.io/documentation-portfolio](https://gladysdanielt.github.io/documentation-portfolio/)
+
 Welcome!
 
 I have 10+ years of experience creating enterprise documentation for SaaS, cloud platforms, APIs, SDKs, and developer products.

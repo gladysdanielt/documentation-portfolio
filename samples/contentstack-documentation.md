@@ -1,4 +1,10 @@
-# Contentstack Documentation
+---
+title: "Contentstack Documentation"
+permalink: /samples/contentstack-documentation/
+layout: single
+author_profile: false
+toc: true
+---
 
 I work on the [Contentstack documentation site](https://www.contentstack.com/docs), contributing across writing, information architecture, analytics, and documentation automation.
 
