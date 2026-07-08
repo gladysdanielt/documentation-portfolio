@@ -17,7 +17,7 @@ feature_row:
     btn_label: "Explore"
     btn_class: "btn--primary"
   - title: "🤖 Doc Engineering"
-    excerpt: "Docsite analytics, the troubleshooting portal, SKILL.md files, and an AI-assisted documentation automation workflow."
+    excerpt: "An MCP server for the docs site, SKILL.md files, the troubleshooting portal, rich media, and an end-to-end doc flow app."
     url: "/documentation-engineering/"
     btn_label: "Explore"
     btn_class: "btn--primary"
