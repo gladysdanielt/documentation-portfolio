@@ -10,6 +10,15 @@ Documentation is a product, not just a set of pages. This section covers the sys
 
 Part of the team that runs docsite analytics using **Microsoft Clarity** and **Swiftype**, to understand how readers actually search and navigate the docs.
 
+- [Sample Clarity Report]({{ site.baseurl }}/samples/sample-clarity-report.xlsx)
+
+## Visual Documentation
+
+Complemented doc articles with explainer diagrams and architecture flows to make complex concepts easier to follow at a glance.
+
+- [Explainer diagram — About Publish Rules](https://www.contentstack.com/docs/headless-cms/about-publish-rules)
+- [Architecture flow — Simple Website with Contentstack Launch](https://www.contentstack.com/docs/headless-cms/simple-website-with-contentstack-launch)
+
 ## Troubleshooting Portal
 
 Contributed to ideating the troubleshooting portal for Contentstack — templated its structure and pulled supporting information from the customer Salesforce database.
