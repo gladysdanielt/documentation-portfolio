@@ -11,3 +11,5 @@ main:
     url: /templates-checklists/
   - title: "📝 Articles"
     url: /technical-articles/
+  - title: "🧑‍🤝‍🧑 Team Mgmt"
+    url: /team-management/
