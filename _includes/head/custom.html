@@ -42,6 +42,26 @@
   .page__footer { background-color: var(--bg); border-top: 1px solid var(--card-border); }
   .page__footer a { color: var(--accent); }
 
+  /* --- Table of contents sidebar: override the skin's default teal accent --- */
+  .toc {
+    background-color: var(--card-bg);
+    border: 1px solid var(--card-border);
+  }
+  .toc .nav__title {
+    background: var(--accent) !important;
+    color: #ffffff !important;
+  }
+  .toc__menu a {
+    color: #D1D5DB;
+  }
+  .toc__menu a:hover {
+    color: var(--accent);
+  }
+  .toc__menu .active a {
+    color: #ffffff;
+    background-color: var(--accent) !important;
+  }
+
   ::selection { background: var(--accent); color: #ffffff; }
 
   /* --- Feature cards: dark panel styling, equal-height, one-line titles, 3-line clamped excerpts --- */
