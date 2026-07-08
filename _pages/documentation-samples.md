@@ -18,6 +18,7 @@ These are kept as PDFs/images because the screenshots and layout are the point.
 - [Velocix Analytics - User Guide (sample)]({{ site.baseurl }}/samples/velocix-analytics-user-guide-sample.pdf)
 - [Webtools Admin Guide (sample screenshot)]({{ site.baseurl }}/samples/webtools-admin-guide-sample.jpg)
 - [Brocade FOS WebTools Admin Guide]({{ site.baseurl }}/samples/brocade-fos-webtools-admin-guide.pdf)
+- [Business Requirement Document (BRD) Sample]({{ site.baseurl }}/samples/encore-brs-sample/)
 
 ## DevEx Docs
 

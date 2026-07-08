@@ -7,9 +7,7 @@ main:
     url: /documentation-samples/
   - title: "🤖 Doc Engineering"
     url: /documentation-engineering/
-  - title: "📄 Templates"
-    url: /templates-checklists/
   - title: "📝 Articles"
     url: /technical-articles/
-  - title: "🧑‍🤝‍🧑 Team Mgmt"
+  - title: "🧑‍🤝‍🧑 Management"
     url: /team-management/

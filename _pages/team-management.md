@@ -1,5 +1,5 @@
 ---
-title: "Team Mgmt"
+title: "Management"
 permalink: /team-management/
 toc: true
 ---
