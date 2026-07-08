@@ -16,7 +16,7 @@ Built an MCP server that discovers docs via **llms.txt** and **sitemap.xml**, em
 
 Created SKILL.md files for the team — reusable, structured prompts that encode writing standards so AI-assisted drafts come out consistent regardless of who runs them.
 
-- <a href="https://github.com/gladysdanielt/documentation-portfolio/blob/main/samples/skill-changelog.md" target="_blank" rel="noopener noreferrer">Sample Changelog Skill file</a>
+- [Sample Changelog Skill file]({{ site.baseurl }}/samples/skill-changelog-viewer/) — purpose, team impact, and the full skill rendered in the browser
 
 ## 🛠️ Troubleshooting Portal
 
