@@ -3,24 +3,50 @@ title: "About"
 permalink: /about/
 ---
 
-Lead Technical Writer with 12+ years of experience delivering enterprise documentation for SaaS, cloud, and developer products.
+## Gladys Daniel
 
-Expertise in developer documentation (API, SDK, CLI), documentation strategy, documentation engineering, and AI-assisted documentation.
+*Information Architect | Documentation Engineering | AI-Driven Documentation*
 
-Drive documentation excellence through automation, process optimization, governance, and cross-functional collaboration with Engineering, Product, UX, and Customer Success teams.
+[GitHub](https://github.com/gladysdanielt) • [Email](mailto:gladys.tantepudi@gmail.com) • LinkedIn
 
-Lead initiatives to modernize documentation practices using AI-assisted workflows and scalable documentation solutions that improve content quality and team productivity.
+## About Me
 
-Build documentation systems that streamline content creation, collaboration, knowledge management, and operational efficiency across the documentation lifecycle.
+I'm a Content Engineer and Lead Technical Writer with 12+ years of experience building enterprise documentation for SaaS, cloud platforms, and developer products.
 
-## At Contentstack
+My expertise spans developer documentation (APIs, SDKs, CLI), documentation architecture, content strategy, information design, and AI-assisted documentation workflows. I enjoy solving documentation challenges through automation, scalable processes, and thoughtful content design.
 
-I work on the [documentation site](https://www.contentstack.com/docs) itself — not just individual pages. That includes:
+Beyond writing documentation, I build systems that improve how documentation is planned, created, reviewed, published, and maintained. My work combines technical writing with AI, process optimization, analytics, and documentation engineering to improve both customer experience and team productivity.
 
-- Contributing to the **redesign of the documentation website**.
-- Working with **docsite analytics** (Microsoft Clarity and Swiftype) to understand how readers actually use the docs, not just how we assume they do.
-- **Reviewing and restructuring** product and developer docs drafted by junior writers — making sure content is accurate, consistent, and easy to follow before it ships.
-- **Ideating the troubleshooting portal** for Contentstack — templating its structure and pulling supporting information from the customer Salesforce database.
-- Collaborating on an **AI-assisted documentation automation** workflow, including a small tool ([Docs Ninja Agent]({{ site.baseurl }}/documentation-engineering/)) built to help speed up parts of the documentation lifecycle.
+I collaborate closely with Engineering, Product, UX, Customer Success, and Support teams to deliver documentation that is accurate, discoverable, and genuinely useful to developers.
 
-I care about documentation that people can actually use under pressure — clear structure, accurate steps, and no guessing about what a button does. This site collects samples of that work.
+## What I Do
+
+- Developer Documentation (APIs, SDKs, CLI, Product Guides)
+- Documentation Engineering & Automation
+- AI-assisted Documentation Workflows
+- Information Architecture
+- Documentation Strategy & Governance
+- Content Operations
+- Documentation Analytics
+- Knowledge Management
+- Technical Writing Leadership
+
+## My Work at Contentstack
+
+At Contentstack, my work extends beyond authoring documentation. I contribute to improving the documentation ecosystem itself.
+
+Some of my key initiatives include:
+
+- Contributing to the redesign and evolution of the documentation website
+- Using Microsoft Clarity and Swiftype analytics to understand user behavior and improve documentation discoverability
+- Reviewing and restructuring product and developer documentation to maintain quality, consistency, and usability
+- Designing the framework for a troubleshooting portal by integrating documentation with customer support knowledge
+- Building AI-assisted documentation workflows and automation to streamline content creation and maintenance
+- Improving documentation standards, governance, and review processes across teams
+- Driving initiatives that reduce manual effort while improving documentation quality and scalability
+
+## My Philosophy
+
+**Great documentation isn't just well written — it's well engineered.**
+
+I believe documentation should be easy to discover, simple to maintain, consistent across products, and effortless for users to follow. By combining technical writing, AI, automation, analytics, and content operations, I help teams create documentation that scales with their products while enabling customers to succeed faster.

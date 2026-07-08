@@ -6,21 +6,18 @@ toc: true
 
 Beyond writing and reviewing docs, I lead people and process as a Team Lead and reporting manager.
 
-## Management Activities
+## People Management & Operational Excellence
 
-- Sprint planning and grooming
-- Scrum mastership
-- Sprint retros
-- Goal setting
-- Performance appraisals
-- Initiating a PIP (Performance Improvement Program) for a non-performing reportee
-- Running upskilling sessions to keep the team abreast of market trends
-- Sharing checklists for quality docs within the team
-- Onboarding induction for new team members
-- Synergy calls to motivate the team
-- 1:1s, decision-making, and conflict management
-- Team-building activities
-- Building AI bots, agents, and automations for smoother team workflows
+- Led Agile planning, sprint execution, and Scrum ceremonies
+- Set team goals and drove delivery against quarterly objectives
+- Conducted performance reviews, coaching, and career mentoring
+- Managed Performance Improvement Plans (PIPs) with measurable outcomes
+- Designed and delivered upskilling programs on AI, developer documentation, and emerging trends
+- Established documentation quality frameworks, review checklists, and best practices
+- Streamlined onboarding through structured induction and knowledge transfer
+- Fostered team engagement through regular 1:1s, synergy sessions, and team-building initiatives
+- Resolved conflicts and enabled effective cross-functional collaboration
+- Built an AI-powered bot
 
 ## What the Team Thinks
 
