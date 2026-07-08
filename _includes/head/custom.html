@@ -1,44 +1,50 @@
 <style>
   :root {
-    --navy: #0B1F3A;
-    --navy-light: #13284d;
-    --mustard: #F5B700;
-    --mustard-dark: #D9A300;
+    --bg: #0A0A0C;
+    --card-bg: #17171B;
+    --card-border: rgba(255, 255, 255, 0.08);
+    --text-muted: #9CA3AF;
+    --accent: #8B5CF6;
+    --accent-hover: #A78BFA;
+    --accent-dark: #7C3AED;
   }
 
-  body { background-color: var(--navy); }
-  a { color: var(--mustard); }
-  a:hover { color: #FFD24D; }
+  body { background-color: var(--bg); }
+  a { color: var(--accent); }
+  a:hover { color: var(--accent-hover); }
 
   .masthead {
-    background-color: var(--navy);
-    border-bottom: 1px solid rgba(245, 183, 0, 0.25);
+    background-color: var(--bg);
+    border-bottom: 1px solid var(--card-border);
   }
-  .site-title, .site-title:hover { color: var(--mustard) !important; }
-  .masthead__menu-item a { font-size: 0.92em; }
-  .greedy-nav a:before { background: var(--mustard); }
-  .greedy-nav .visible-links a:hover { color: var(--mustard); }
-  .greedy-nav__toggle { color: var(--mustard); }
+  .site-title, .site-title:hover { color: var(--accent) !important; }
+  .masthead__menu-item a { font-size: 0.92em; color: #D1D5DB; }
+  .greedy-nav a:before { background: var(--accent); }
+  .greedy-nav .visible-links a:hover { color: var(--accent); }
+  .greedy-nav__toggle { color: var(--accent); }
 
-  .page__title, .page__title a { color: var(--mustard) !important; }
-  .archive__item-title a { color: var(--mustard); }
+  .page__title, .page__title a { color: var(--accent) !important; }
+  .archive__item-title a { color: var(--accent); }
+  .page__content, .page__content p, .page__content li { color: #D1D5DB; }
+  p.excerpt { color: var(--text-muted); }
 
   .btn--primary, .btn--primary:visited {
-    background-color: var(--mustard) !important;
-    color: var(--navy) !important;
+    background-color: var(--accent) !important;
+    color: #ffffff !important;
     font-weight: 600;
+    border-radius: 6px;
   }
-  .btn--primary:hover { background-color: var(--mustard-dark) !important; }
+  .btn--primary:hover { background-color: var(--accent-dark) !important; }
 
-  .author__urls a, .author__urls-btn { color: var(--mustard); }
-  .sidebar .author__name, .sidebar h3 { color: var(--mustard); }
+  .author__urls a, .author__urls-btn { color: var(--accent); }
+  .sidebar .author__name, .sidebar h3 { color: var(--accent); }
 
-  .page__footer { background-color: var(--navy); }
-  .page__footer a { color: var(--mustard); }
+  .page__footer { background-color: var(--bg); border-top: 1px solid var(--card-border); }
+  .page__footer a { color: var(--accent); }
 
-  ::selection { background: var(--mustard); color: var(--navy); }
+  ::selection { background: var(--accent); color: #ffffff; }
 
-  /* --- Feature card alignment: equal-height cards, one-line titles, 3-line clamped excerpts --- */
+  /* --- Feature cards: dark panel styling, equal-height, one-line titles, 3-line clamped excerpts --- */
   .feature__wrapper {
     display: flex !important;
     flex-wrap: wrap !important;
@@ -69,19 +75,29 @@
     height: 100%;
     display: flex;
     flex-direction: column;
+    background-color: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    padding-top: 1.25em;
+    transition: border-color 0.15s ease;
+  }
+  .feature__item .archive__item:hover {
+    border-color: rgba(139, 92, 246, 0.4);
   }
   .feature__item .archive__item-body {
     display: flex;
     flex-direction: column;
     flex: 1;
-    padding-inline: 1em;
+    padding-inline: 1.25em;
   }
   .archive__item-title {
+    color: #ffffff;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
   .archive__item-excerpt {
+    color: var(--text-muted);
     flex: 1 1 auto;
     display: -webkit-box;
     -webkit-line-clamp: 3;
@@ -98,8 +114,9 @@
   .table-scroll {
     overflow-x: auto;
     margin-bottom: 1.5em;
-    border: 1px solid rgba(245, 183, 0, 0.25);
-    border-radius: 4px;
+    border: 1px solid var(--card-border);
+    border-radius: 8px;
+    background-color: var(--card-bg);
   }
   .table-scroll table {
     margin-bottom: 0;
@@ -110,8 +127,8 @@
     min-width: 160px;
   }
   tr.section-row td {
-    background-color: rgba(245, 183, 0, 0.12);
-    color: var(--mustard);
+    background-color: rgba(139, 92, 246, 0.12);
+    color: var(--accent-hover);
     white-space: nowrap !important;
   }
 </style>

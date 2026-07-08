@@ -3,8 +3,8 @@ layout: splash
 title: "Gladys Daniel"
 excerpt: "Lead Technical Writer · Documentation Engineering · AI-assisted Documentation"
 header:
-  overlay_color: "#0B1F3A"
-  overlay_filter: "0.5"
+  overlay_color: "#0A0A0C"
+  overlay_filter: "0.4"
   actions:
     - label: "📚 View Doc Samples"
       url: "/documentation-samples/"
