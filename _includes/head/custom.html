@@ -40,26 +40,26 @@
 
   /* --- Feature card alignment: equal-height cards, one-line titles, 3-line clamped excerpts --- */
   .feature__wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: stretch;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: stretch !important;
     gap: 1.5rem;
     border-bottom: none;
   }
-  .feature__item,
-  .feature__item--left,
-  .feature__item--center,
-  .feature__item--right {
-    float: none;
-    width: calc(50% - 0.75rem);
-    margin-bottom: 0;
+  .feature__wrapper .feature__item,
+  .feature__wrapper .feature__item--left,
+  .feature__wrapper .feature__item--center,
+  .feature__wrapper .feature__item--right {
+    float: none !important;
+    width: calc(50% - 0.75rem) !important;
+    margin-bottom: 0 !important;
   }
-  @media (max-width: 600px) {
-    .feature__item,
-    .feature__item--left,
-    .feature__item--center,
-    .feature__item--right {
-      width: 100%;
+  @media (max-width: 420px) {
+    .feature__wrapper .feature__item,
+    .feature__wrapper .feature__item--left,
+    .feature__wrapper .feature__item--center,
+    .feature__wrapper .feature__item--right {
+      width: 100% !important;
     }
   }
   .feature__item .archive__item,
