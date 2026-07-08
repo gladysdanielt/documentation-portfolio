@@ -12,21 +12,15 @@ header:
       url: "/about/"
 feature_row:
   - title: "📚 Doc Samples"
-    excerpt: "Real project deliverables — user guides and quick-start guides written for people who are stuck and just want the next step."
+    excerpt: "Real project deliverables — user guides, quick-start guides, and DevEx docs I've reviewed and restructured."
     url: "/documentation-samples/"
     btn_label: "Explore"
     btn_class: "btn--primary"
-  - title: "🔧 DevEx Docs"
-    excerpt: "API, SDK, and CLI reference documentation from the Contentstack docs site that I've reviewed and helped keep accurate and consistent."
-    url: "/api-documentation/"
-    btn_label: "Explore"
-    btn_class: "btn--primary"
   - title: "🤖 Doc Engineering"
-    excerpt: "Docsite analytics, the troubleshooting portal, and an AI-assisted documentation automation workflow behind the docs."
+    excerpt: "Docsite analytics, the troubleshooting portal, SKILL.md files, and an AI-assisted documentation automation workflow."
     url: "/documentation-engineering/"
     btn_label: "Explore"
     btn_class: "btn--primary"
-feature_row2:
   - title: "📄 Templates"
     excerpt: "A structured Business Requirement Spec template that keeps change documentation consistent for non-technical readers."
     url: "/templates-checklists/"
@@ -37,13 +31,6 @@ feature_row2:
     url: "/technical-articles/"
     btn_label: "Explore"
     btn_class: "btn--primary"
-  - title: "📧 Contact"
-    excerpt: "Reach out about technical writing roles, documentation engineering projects, or any collaboration you have in mind."
-    url: "/contact/"
-    btn_label: "Reach Out"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" %}

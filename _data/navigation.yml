@@ -5,13 +5,9 @@ main:
     url: /about/
   - title: "📚 Doc Samples"
     url: /documentation-samples/
-  - title: "🔧 DevEx Docs"
-    url: /api-documentation/
   - title: "🤖 Doc Engineering"
     url: /documentation-engineering/
   - title: "📄 Templates"
     url: /templates-checklists/
   - title: "📝 Articles"
     url: /technical-articles/
-  - title: "📧 Contact"
-    url: /contact/

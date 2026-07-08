@@ -19,6 +19,12 @@ Complemented doc articles with explainer diagrams and architecture flows to make
 - [Explainer diagram — About Publish Rules](https://www.contentstack.com/docs/headless-cms/about-publish-rules)
 - [Architecture flow — Simple Website with Contentstack Launch](https://www.contentstack.com/docs/headless-cms/simple-website-with-contentstack-launch)
 
+## SKILL.md Files for the Team
+
+Created SKILL.md files for the team — reusable, structured prompts that encode writing standards so AI-assisted drafts come out consistent regardless of who runs them.
+
+- <a href="https://github.com/gladysdanielt/documentation-portfolio/blob/main/samples/skill-changelog.md" target="_blank" rel="noopener noreferrer">Sample Changelog Skill file</a>
+
 ## Troubleshooting Portal
 
 Contributed to ideating the troubleshooting portal for Contentstack — templated its structure and pulled supporting information from the customer Salesforce database.
