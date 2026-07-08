@@ -10,7 +10,7 @@ Documentation is a product, not just a set of pages. This section covers the sys
 
 Part of the team that runs docsite analytics using **Microsoft Clarity** and **Swiftype**, to understand how readers actually search and navigate the docs.
 
-- <a href="https://github.com/gladysdanielt/documentation-portfolio/blob/main/samples/sample-clarity-report.xlsx" target="_blank" rel="noopener noreferrer">Sample Clarity Report</a>
+- [Sample Clarity Report]({{ site.baseurl }}/samples/clarity-report/) — viewable as tables directly in the browser
 
 ## Visual Documentation
 

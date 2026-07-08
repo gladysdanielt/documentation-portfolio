@@ -1,6 +1,6 @@
 ---
 name: contentstack-changelog
-description: Write Contentstack changelogs and release notes — both the post body and the full structured release-note artifact (post title, release date, post type, widget description, and product/plan/persona/channel tags). Use this whenever the user wants to announce a shipped change: a new feature, enhancement, bug fix, deprecation, or breaking change. Trigger on "changelog", "release note", "what's new", "announce this feature", "draft a release post", or any request to turn a shipped change into user-facing announcement copy, even if they don't say the word "changelog".
+description: "Write Contentstack changelogs and release notes — both the post body and the full structured release-note artifact (post title, release date, post type, widget description, and product/plan/persona/channel tags). Use this whenever the user wants to announce a shipped change: a new feature, enhancement, bug fix, deprecation, or breaking change. Trigger on \"changelog\", \"release note\", \"what's new\", \"announce this feature\", \"draft a release post\", or any request to turn a shipped change into user-facing announcement copy, even if they don't say the word \"changelog\"."
 ---
 
 # Contentstack Changelog Writer

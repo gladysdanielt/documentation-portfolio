@@ -101,4 +101,25 @@
     margin-top: auto;
     margin-bottom: 0;
   }
+
+  /* --- Wide data tables (e.g. Clarity report) --- */
+  .table-scroll {
+    overflow-x: auto;
+    margin-bottom: 1.5em;
+    border: 1px solid rgba(245, 183, 0, 0.25);
+    border-radius: 4px;
+  }
+  .table-scroll table {
+    margin-bottom: 0;
+    white-space: nowrap;
+  }
+  .table-scroll table td {
+    white-space: normal;
+    min-width: 160px;
+  }
+  tr.section-row td {
+    background-color: rgba(245, 183, 0, 0.12);
+    color: var(--mustard);
+    white-space: nowrap !important;
+  }
 </style>
