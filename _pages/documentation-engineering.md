@@ -1,5 +1,5 @@
 ---
-title: "Documentation Engineering"
+title: "Doc Engineering"
 permalink: /documentation-engineering/
 toc: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Templates & Checklists"
+title: "Templates"
 permalink: /templates-checklists/
 toc: true
 ---

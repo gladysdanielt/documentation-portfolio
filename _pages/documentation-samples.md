@@ -1,5 +1,5 @@
 ---
-title: "Documentation Samples"
+title: "Doc Samples"
 permalink: /documentation-samples/
 toc: true
 ---

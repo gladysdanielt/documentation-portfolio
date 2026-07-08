@@ -24,6 +24,7 @@ plugins:
 
 author:
   name: "Gladys Daniel"
+  avatar: "/assets/images/gladys.jpeg"
   bio: "Lead Technical Writer | Documentation Engineering | AI-assisted Documentation"
   email: "gladys.tantepudi@gmail.com"
   links:

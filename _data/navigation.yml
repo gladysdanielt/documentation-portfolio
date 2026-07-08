@@ -1,15 +1,15 @@
 main:
   - title: "🏠 Home"
     url: /
-  - title: "🧑‍💼 About Me"
+  - title: "🧑‍💼 About"
     url: /about/
-  - title: "📚 Documentation Samples"
+  - title: "📚 Doc Samples"
     url: /documentation-samples/
-  - title: "🔧 DevEx Documentation"
+  - title: "🔧 DevEx Docs"
     url: /api-documentation/
-  - title: "🤖 Documentation Engineering"
+  - title: "🤖 Doc Engineering"
     url: /documentation-engineering/
-  - title: "📄 Templates & Checklists"
+  - title: "📄 Templates"
     url: /templates-checklists/
   - title: "📝 Articles"
     url: /technical-articles/

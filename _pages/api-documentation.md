@@ -1,5 +1,5 @@
 ---
-title: "DevEx Documentation"
+title: "DevEx Docs"
 permalink: /api-documentation/
 toc: true
 ---
