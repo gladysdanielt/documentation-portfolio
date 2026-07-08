@@ -17,6 +17,7 @@ These are kept as PDFs/images because the screenshots and layout are the point.
 - [Swiggy - Quick Start Guide]({{ site.baseurl }}/samples/swiggy-quickstart-guide.pdf)
 - [Velocix Analytics - User Guide (sample)]({{ site.baseurl }}/samples/velocix-analytics-user-guide-sample.pdf)
 - [Webtools Admin Guide (sample screenshot)]({{ site.baseurl }}/samples/webtools-admin-guide-sample.jpg)
+- [Brocade FOS WebTools Admin Guide]({{ site.baseurl }}/samples/brocade-fos-webtools-admin-guide.pdf)
 
 ## DevEx Docs
 
