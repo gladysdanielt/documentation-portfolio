@@ -22,7 +22,7 @@ I collaborate closely with Engineering, Product, UX, Customer Success, and Suppo
 ## What I Do
 
 - User and Developer Documentation (APIs, SDKs, CLI, Product Guides)
-- Online help documentation integrated with CI/CD pipelines
+- Online Help Documentation integrated with CI/CD pipelines
 - Documentation Engineering & Automation
 - AI-assisted Documentation Workflows
 - Information Architecture
