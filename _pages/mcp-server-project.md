@@ -11,19 +11,28 @@ AI assistants are increasingly the first place people ask product questions — 
 
 ## What I Built
 
-An **MCP (Model Context Protocol) server** that gives AI assistants direct, structured access to the documentation site — so they can search and retrieve real doc content instead of guessing.
+**docs-assistant** — a local [MCP (Model Context Protocol)](https://modelcontextprotocol.io) server that makes the Contentstack documentation searchable through a vector store, so any MCP-compatible client (like Claude) can query real doc content by keyword instead of guessing.
 
 ### How it works
 
-1. **Discover pages** — the server reads the site's `llms.txt` file (a curated list of key doc pages meant for AI consumption) alongside the standard `sitemap.xml`, so it has both a curated and a comprehensive view of what's published.
-2. **Ingest and chunk content** — each page is fetched and broken into smaller, coherent chunks, since retrieval accuracy depends on chunks being focused rather than whole-page dumps.
-3. **Vectorize and store** — chunks are embedded and stored in a vector database, enabling semantic search (finding relevant content by meaning, not just keyword match).
-4. **Expose as MCP tools** — the server exposes search and retrieval as MCP tools, so any MCP-compatible AI assistant can query the docs directly and cite real, current pages in its answers.
+1. **Ingest** — content is pulled directly from Contentstack via the Content Delivery and Content Management APIs.
+2. **Embed** — text is sent to a dedicated embedder service and converted into vectors (default model: `sentence-transformers/all-mpnet-base-v2`).
+3. **Store** — vectors persist in a local vector store — Chroma by default, with FAISS as a configurable alternative.
+4. **Serve** — the server exposes two MCP tools:
+
+| Tool | Parameters | Description |
+|---|---|---|
+| `search_docs` | `keyword` (required) | Searches ingested docs by keyword, returns matching snippets from the vector store |
+| `list_doc_urls` | `keyword` (optional) | Lists unique documentation URLs, optionally filtered by keyword |
+
+### Built for fail-fast reliability
+
+Configuration is read from environment variables and validated with [Zod](https://zod.dev) at startup — the server refuses to start on invalid config rather than failing silently later in production.
 
 ## Why It Matters
 
-- **Accuracy** — answers are grounded in the actual published docs, not the model's training data or an outdated cache.
-- **Freshness** — re-running ingestion against `llms.txt` and `sitemap.xml` keeps the index current as docs change.
-- **Reusability** — once exposed as MCP tools, the same search capability works across any MCP-compatible assistant, not just one specific chat interface.
+- **Accuracy** — answers are grounded in the actual Contentstack content, not the model's training data or a stale cache.
+- **Fail-fast config** — bad setup is caught immediately at startup, not discovered mid-incident.
+- **Reusability** — once exposed as MCP tools, the same search capability works with any MCP-compatible client, not just one chat interface.
 
 This is the kind of documentation engineering work that sits behind the docs, not on the page — infrastructure that makes the content itself more useful.

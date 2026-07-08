@@ -8,7 +8,7 @@ Documentation is a product, not just a set of pages. This section covers the sys
 
 ## 🔌 MCP Server for the Docs Site
 
-Built an MCP server that discovers pages via `llms.txt` and `sitemap.xml`, chunks and embeds the content into a vector database, and exposes search as MCP tools — so AI assistants can query the real docs directly instead of guessing.
+Built an MCP server that ingests Contentstack documentation, embeds it into a vector database, and exposes search as MCP tools — so AI assistants can query the real docs directly instead of guessing.
 
 - [Read the full write-up]({{ site.baseurl }}/samples/mcp-server-project/)
 
