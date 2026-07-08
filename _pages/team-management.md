@@ -24,4 +24,10 @@ Beyond writing and reviewing docs, I lead people and process as a Team Lead and 
 
 ## What the Team Thinks
 
-<!-- Screenshots pending — see note to Gladys -->
+Peer recognition shared in Slack, in the team's own words:
+
+![Team recognition — February 2025]({{ site.baseurl }}/assets/images/team-feedback/high5-feb-2025.png)
+
+![Team recognition — January & June 2025]({{ site.baseurl }}/assets/images/team-feedback/high5-jan-jun-2025.png)
+
+![Team recognition — July 2025]({{ site.baseurl }}/assets/images/team-feedback/high5-jul-2025.png)
