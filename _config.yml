@@ -25,18 +25,24 @@ plugins:
 author:
   name: "Gladys Daniel"
   avatar: "/assets/images/gladys.jpeg"
-  bio: "Content Engineer"
+  bio: "Information Architect"
   email: "gladys.tantepudi@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gladysdanielt"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tgladysdaniel/"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gladysdanielt"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tgladysdaniel/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:gladys.tantepudi@gmail.com"

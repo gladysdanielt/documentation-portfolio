@@ -5,13 +5,13 @@ permalink: /about/
 
 ## Gladys Daniel
 
-*Information Architect | Documentation Engineering | AI-Driven Documentation*
+Information Architect · Documentation Engineering · AI-Driven Documentation
 
-[GitHub](https://github.com/gladysdanielt) • [Email](mailto:gladys.tantepudi@gmail.com) • LinkedIn
+[GitHub](https://github.com/gladysdanielt) • [Email](mailto:gladys.tantepudi@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tgladysdaniel/)
 
 ## About Me
 
-I'm a Content Engineer and Lead Technical Writer with 12+ years of experience building enterprise documentation for SaaS, cloud platforms, and developer products.
+I'm an Information Architect and Lead Technical Writer with 12+ years of experience building enterprise documentation for SaaS, cloud platforms, and developer products.
 
 My expertise spans developer documentation (APIs, SDKs, CLI), documentation architecture, content strategy, information design, and AI-assisted documentation workflows. I enjoy solving documentation challenges through automation, scalable processes, and thoughtful content design.
 
