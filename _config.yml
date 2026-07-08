@@ -8,7 +8,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
 locale: "en-US"
-search: true
+search: false
 
 markdown: kramdown
 kramdown:
