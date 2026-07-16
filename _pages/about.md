@@ -52,6 +52,8 @@ Some of my key initiatives include:
 
 <a href="https://www.linkedin.com/posts/tgladysdaniel_informationarchitecture-contentoperations-share-7430517995203895296-jtx6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">View on LinkedIn</a>
 
+**Generative AI for Business with Microsoft Azure OpenAI** — Great Learning, in collaboration with Microsoft (November 2025). A 16-week instructor-led program covering LLMs, prompt engineering, and Azure OpenAI Studio, aimed at applying GenAI toward more intelligent, adaptive documentation experiences.
+
 ## My Philosophy
 
 **Great documentation isn't just well written — it's well engineered.**
