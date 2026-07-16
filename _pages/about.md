@@ -54,7 +54,7 @@ Some of my key initiatives include:
 
 **Generative AI for Business with Microsoft Azure OpenAI** — Great Learning, in collaboration with Microsoft (November 2025). A 16-week instructor-led program covering LLMs, prompt engineering, and Azure OpenAI Studio, aimed at applying GenAI toward more intelligent, adaptive documentation experiences.
 
-<a href="https://www.linkedin.com/posts/tgladysdaniel_microsoftazure-genai-openai-share-7400075625614716928-crhr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">View on LinkedIn</a>
+<a href="https://www.linkedin.com/posts/tgladysdaniel_microsoftazure-genai-openai-share-7400075625614716928-crhr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">View on LinkedIn</a> • <a href="https://www.mygreatlearning.com/certificate/JHFOTPMS" target="_blank" rel="noopener noreferrer">View Certificate</a>
 
 ## My Philosophy
 
