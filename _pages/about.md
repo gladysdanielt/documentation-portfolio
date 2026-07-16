@@ -46,6 +46,12 @@ Some of my key initiatives include:
 - Improving documentation standards, governance, and review processes across teams
 - Driving initiatives that reduce manual effort while improving documentation quality and scalability
 
+## Recognition
+
+**Contentstack "Above & Beyond" Award** (Q4 2025) — for embracing innovation by leading AI initiatives and driving the Proof of Concept for automating end-to-end documentation workflows.
+
+<a href="https://www.linkedin.com/posts/tgladysdaniel_informationarchitecture-contentoperations-share-7430517995203895296-jtx6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">View on LinkedIn</a>
+
 ## My Philosophy
 
 **Great documentation isn't just well written — it's well engineered.**
