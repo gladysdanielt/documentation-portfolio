@@ -11,7 +11,7 @@ Writing samples that show range beyond structured documentation — long-form ex
 - [The Role of Public Cloud in Digital Transformation]({{ site.baseurl }}/samples/digital-transformation-blog/) — a technical blog on cloud computing models (IaaS, SaaS, PaaS) and the case for public cloud.
 - [Aladdin — Movie Review]({{ site.baseurl }}/samples/movie-review-aladdin/) — a review written for a children's magazine, included to show comfort writing outside a strictly technical register.
 
-## My Posts
+## LinkedIn Posts
 
 Short takes on documentation engineering topics, shared on LinkedIn.
 
@@ -31,4 +31,4 @@ Personal blog posts from early in my writing journey — [gladysdanielt.blogspot
 ### Creative Writing
 
 - <a href="https://gladysdanielt.blogspot.com/2019/03/one-finest-lady.html" target="_blank" rel="noopener noreferrer">One Finest Lady</a> — a poem on the three crucial stages of a woman's life (as a baby, a wife, and a mother), evolving like a butterfly.
-- <a href="https://gladysdanielt.blogspot.com/2019/03/its-all-about-love.html" target="_blank" rel="noopener noreferrer">It's All About Love</a> — a poem on the beautiful relationship between a married couple.
+- <a href="https://gladysdanielt.blogspot.com/2019/03/its-all-about-love.html" target="_blank" rel="noopener noreferrer">It's All About Love</a> — a poem on the beautiful relationship between a couple who are strong together.
