@@ -35,8 +35,6 @@ Complemented doc articles with explainer diagrams and architecture flows to make
 
 Collaborated on building automation for AI-assisted doc creation, including an app built with Google AI Studio to handle multiple stages of the documentation development lifecycle (DDLC) in one place.
 
-- [Docs Ninja Agent](https://htmlpreview.github.io/?https://github.com/gladysdanielt/Docs-Ninja-Agent/blob/main/index.html)
-
 **Demo video**
 
 <video controls preload="metadata" style="width: 100%; max-width: 800px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.08);">
