@@ -154,4 +154,23 @@
     color: var(--accent-hover);
     white-space: nowrap !important;
   }
+
+  /* --- Active nav tab --- */
+  .masthead__menu-item a.nav-current {
+    color: var(--accent) !important;
+    font-weight: 700;
+  }
 </style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var currentPath = window.location.pathname.replace(/\/+$/, '') || '/';
+    document.querySelectorAll('.masthead__menu-item a').forEach(function (link) {
+      var linkPath = link.getAttribute('href');
+      if (!linkPath) return;
+      linkPath = linkPath.replace(/\/+$/, '') || '/';
+      if (linkPath === currentPath) {
+        link.classList.add('nav-current');
+      }
+    });
+  });
+</script>
