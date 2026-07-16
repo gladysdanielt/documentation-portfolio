@@ -37,6 +37,13 @@ Collaborated on building automation for AI-assisted doc creation, including an a
 
 - [Docs Ninja Agent](https://htmlpreview.github.io/?https://github.com/gladysdanielt/Docs-Ninja-Agent/blob/main/index.html)
 
+**Demo video**
+
+<video controls preload="metadata" style="width: 100%; max-width: 800px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.08);">
+  <source src="{{ site.baseurl }}/samples/docs-ninja-agent-demo.mp4" type="video/mp4">
+  Your browser doesn't support embedded video. <a href="{{ site.baseurl }}/samples/docs-ninja-agent-demo.mp4">Download the video</a> instead.
+</video>
+
 ## 📊 Docsite Analytics
 
 Part of the team that runs docsite analytics using **Microsoft Clarity** and **Swiftype**, to understand how readers actually search and navigate the docs.
