@@ -4,7 +4,7 @@ permalink: /documentation-engineering/
 toc: true
 ---
 
-Documentation is a product, not just a set of pages. This section covers the systems and tooling work behind the Contentstack docs — analytics, structure, and automation.
+Documentation is a product, not just a set of pages. This section covers the systems and tooling work behind the Contentstack docs — analytics, structure, and automation, including **retrieval-augmented generation (RAG)** for AI-powered doc search and **AI-driven orchestration** across the documentation lifecycle.
 
 ## 🔌 MCP Server for the Docs Site
 
