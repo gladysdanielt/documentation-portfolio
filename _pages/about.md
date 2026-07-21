@@ -32,6 +32,10 @@ I collaborate closely with Engineering, Product, UX, Customer Success, and Suppo
 - Knowledge Management
 - Technical Writing Leadership
 
+## Technical Grounding
+
+At Velocix, I gained hands-on technical knowledge of Java, Kubernetes, Helm, Docker, Prometheus, and Grafana — experience that helps me write more technically grounded documentation for infrastructure, DevOps, and observability tooling.
+
 ## My Work at Contentstack
 
 At Contentstack, my work extends beyond authoring documentation. I contribute to improving the documentation ecosystem itself.
