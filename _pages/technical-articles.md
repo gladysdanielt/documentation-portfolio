@@ -17,6 +17,7 @@ Short takes on documentation engineering topics, shared on LinkedIn.
 
 - **8 July 2026** — <a href="https://www.linkedin.com/feed/update/urn:li:share:7480601740791209984/" target="_blank" rel="noopener noreferrer">AI in Technical Writing</a>
 - **11 July 2026** — <a href="https://www.linkedin.com/posts/tgladysdaniel_documentationengineering-technicalwriting-activity-7481686812147777538-0PrB?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">Discoverability</a>
+- **21 July 2026** — <a href="https://www.linkedin.com/posts/tgladysdaniel_documentationengineering-technicalwriting-share-7485240027120300033-YoiU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">Metadata</a>
 
 ## My Blog
 
