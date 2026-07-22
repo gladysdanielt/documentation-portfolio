@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s https://gladysdanielt.github.io/*)",
+      "Bash(curl -s \"https://cdn.contentstack.io/*)",
+      "Bash(curl -s https://raw.githubusercontent.com/*)",
+      "mcp__Claude_Browser__read_network_requests",
+      "mcp__contentstack-docs__query",
+      "mcp__2bd6a0bf-be36-4759-b380-c22b4e1432be__read_file_content",
+      "mcp__Claude_Browser__tabs_context",
+      "mcp__mcp-registry__search_mcp_registry",
+      "mcp__Claude_Browser__read_page",
+      "mcp__2bd6a0bf-be36-4759-b380-c22b4e1432be__get_file_metadata"
+    ]
+  }
+}

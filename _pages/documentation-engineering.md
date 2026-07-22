@@ -12,6 +12,13 @@ Built an MCP server that discovers docs via **llms.txt** and **sitemap.xml**, em
 
 - [Read the full write-up]({{ site.baseurl }}/samples/mcp-server-project/)
 
+## 🔍 Multi-Agent Documentation Reviewer
+
+Built a system of specialist Claude Code review agents (SDK, CLI, and general docs) that review documentation PRs, verify claims against real source code before flagging anything critical, and post findings as a pending — never auto-submitted — GitHub review.
+
+- [Read the full write-up]({{ site.baseurl }}/samples/docs-reviewer-agent/article/)
+- <a href="https://github.com/gladysdanielt/documentation-portfolio/tree/main/samples/docs-reviewer-agent" target="_blank" rel="noopener noreferrer">Browse the agent prompts on GitHub</a>
+
 ## 🧩 SKILL.md Files for the Team
 
 Created SKILL.md files for the team — reusable, structured prompts that encode writing standards so AI-assisted drafts come out consistent regardless of who runs them.
