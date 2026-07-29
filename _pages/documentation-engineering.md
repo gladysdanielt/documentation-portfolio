@@ -12,11 +12,25 @@ Built an MCP server that discovers docs via **llms.txt** and **sitemap.xml**, em
 
 - [Read the full write-up]({{ site.baseurl }}/samples/mcp-server-project/)
 
-## 🔍 Multi-Agent Documentation Reviewer
+## 🤖 Agents Built
+
+### Multi-Agent Documentation Reviewer
 
 Built a system of specialist Claude Code review agents (SDK, CLI, and general docs) that review documentation PRs, verify claims against real source code before flagging anything critical, and post findings as a pending — never auto-submitted — GitHub review.
 
 - [Read the full write-up]({{ site.baseurl }}/samples/docs-reviewer-agent/article/)
+
+### IA Agents Tracker
+
+A companion dashboard to the IA Monthly Goals Dashboard for tracking every AI agent the team is building — what exists, who owns it, what state it's in — plus a living agent-creation guideline checklist and a shared prompt library, so writers stop reinventing the same tools and prompts independently.
+
+- [Read the full write-up]({{ site.baseurl }}/samples/ia-agents-tracker/)
+
+### IA Monthly Goals Dashboard
+
+An AI-assisted planning system for documentation team leads — centralizes writer goals across time and uses Claude to draft new monthly goals on demand, grounded in a researched briefing on current documentation standards and AI trends.
+
+- [Read the full write-up]({{ site.baseurl }}/samples/ia-goals-dashboard/)
 
 ## 🧩 SKILL.md Files for the Team
 
