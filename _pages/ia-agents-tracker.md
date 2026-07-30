@@ -58,5 +58,3 @@ This shipped recently, so team-wide usage data doesn't exist yet — any specifi
 - **A link requirement turns "Done" into a checkable claim** instead of a self-report, which matters more as more agents accumulate and no one person can hold the full picture in their head.
 - **Guidelines that live where the work happens** are more likely to get followed — and more likely to get improved, since adding one is as easy as filling in a text box.
 - **A shared prompt library reduces the single most avoidable form of duplicate work** on an AI-adopting team: two people solving the same problem with two different prompts because neither knew the other had already done it.
-
-The next real test is adoption — whether writers actually populate it during the normal cadence of monthly IA planning, or whether it needs another iteration to fit naturally into that workflow. That's the honest next chapter, not a number to report yet.

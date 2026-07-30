@@ -32,6 +32,12 @@ An AI-assisted planning system for documentation team leads — centralizes writ
 
 - [Read the full write-up]({{ site.baseurl }}/samples/ia-goals-dashboard/)
 
+### Personal Work Wiki
+
+A knowledge base Claude reads and writes for me, not one I maintain by hand — based on Karpathy's "LLM Wiki" pattern. Seeded from real session history across every project I work in, it turns scattered findings, corrections, and open threads into structured, cross-linked pages that compound instead of resetting every session.
+
+- [Read the full write-up]({{ site.baseurl }}/samples/work-wiki/)
+
 ## 🧩 SKILL.md Files for the Team
 
 Created SKILL.md files for the team — reusable, structured prompts that encode writing standards so AI-assisted drafts come out consistent regardless of who runs them.
