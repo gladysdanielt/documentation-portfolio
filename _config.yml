@@ -60,6 +60,3 @@ defaults:
 
 include:
   - _pages
-
-exclude:
-  - samples/skill-changelog.md
