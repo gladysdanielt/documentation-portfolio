@@ -161,6 +161,14 @@
     color: var(--accent) !important;
     font-weight: 700;
   }
+
+  /* --- Reactive content width: the theme hard-caps at 1280px above that
+     breakpoint, leaving growing empty margins on wider screens. Let it
+     keep scaling with the viewport instead, capped at a sane max. --- */
+  #main,
+  .masthead__inner-wrap {
+    max-width: min(92vw, 1600px) !important;
+  }
 </style>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
