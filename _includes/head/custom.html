@@ -182,18 +182,4 @@
       }
     });
   });
-
-  document.addEventListener('DOMContentLoaded', function () {
-    var titleEl = document.querySelector('.page__title');
-    if (!titleEl) return;
-    var pageKey = encodeURIComponent(window.location.hostname + window.location.pathname);
-    var badge = document.createElement('img');
-    badge.src = 'https://visitor-badge.laobi.icu/badge?page_id=' + pageKey +
-      '&left_text=views&left_color=%2317171B&right_color=%238B5CF6';
-    badge.alt = 'page views';
-    badge.style.marginInlineStart = '0.75em';
-    badge.style.verticalAlign = 'middle';
-    badge.onerror = function () { badge.style.display = 'none'; };
-    titleEl.appendChild(badge);
-  });
 </script>
