@@ -5,11 +5,6 @@ excerpt: "Lead Technical Writer · Documentation Engineering · AI-assisted Docu
 header:
   overlay_color: "#0A0A0C"
   overlay_filter: "0.4"
-  actions:
-    - label: "📚 View Doc Samples"
-      url: "/documentation-samples/"
-    - label: "🧑‍💼 About Me"
-      url: "/about/"
 feature_row:
   - title: "📚 Doc Samples"
     excerpt: "Real project deliverables — user guides, quick-start guides, and DevEx docs I've reviewed and restructured."
