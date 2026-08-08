@@ -20,7 +20,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
 
 author:
   name: "Gladys Daniel"
