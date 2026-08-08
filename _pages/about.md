@@ -7,7 +7,7 @@ permalink: /about/
 
 Information Architect · Documentation Engineering · AI-Driven Documentation
 
-[GitHub](https://github.com/gladysdanielt) • [Email](mailto:gladys.tantepudi@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tgladysdaniel/)
+[GitHub](https://github.com/gladysdanielt/documentation-portfolio) • [Email](mailto:gladys.tantepudi@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tgladysdaniel/)
 
 ## About Me
 
