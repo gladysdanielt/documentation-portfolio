@@ -10,6 +10,9 @@ minimal_mistakes_skin: "dark"
 locale: "en-US"
 search: false
 
+atom_feed:
+  hide: true
+
 markdown: kramdown
 kramdown:
   input: GFM
