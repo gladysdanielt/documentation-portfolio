@@ -162,12 +162,23 @@
     font-weight: 700;
   }
 
-  /* --- Reactive content width: the theme hard-caps at 1280px above that
-     breakpoint, leaving growing empty margins on wider screens. Let it
-     keep scaling with the viewport instead, capped at a sane max. --- */
+  /* --- Full edge-to-edge width: the theme hard-caps at 1280px above that
+     breakpoint. Remove the cap entirely so content fills the viewport on
+     any screen size, while guarding against horizontal scroll. --- */
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
   #main,
   .masthead__inner-wrap {
-    max-width: min(92vw, 1600px) !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
+  img, video, iframe {
+    max-width: 100%;
+  }
+  .page__content > table {
+    max-width: 100%;
   }
 </style>
 <script>
