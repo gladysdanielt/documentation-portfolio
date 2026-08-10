@@ -19,6 +19,7 @@ Short takes on documentation engineering topics, shared on LinkedIn.
 - **11 July 2026** — <a href="https://www.linkedin.com/posts/tgladysdaniel_documentationengineering-technicalwriting-activity-7481686812147777538-0PrB?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">Discoverability</a>
 - **21 July 2026** — <a href="https://www.linkedin.com/posts/tgladysdaniel_documentationengineering-technicalwriting-share-7485240027120300033-YoiU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">Metadata</a>
 - **30 July 2026** — <a href="https://www.linkedin.com/posts/tgladysdaniel_documentationengineering-technicalwriting-share-7488488200584495104-VIDI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">Docs Review Agent</a>
+- **10 August 2026** — <a href="https://www.linkedin.com/posts/tgladysdaniel_documentationengineering-documentationdebt-share-7492519879338717185-VsP7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcnV4sB-Uu2uc5-5Ifu33AHTPJoeUfnV40" target="_blank" rel="noopener noreferrer">Documentation Debt</a>
 
 ## My Blog
 
