@@ -19,6 +19,7 @@ These are kept as PDFs/images because the screenshots and layout are the point.
 - [Webtools Admin Guide (sample screenshot)]({{ site.baseurl }}/samples/webtools-admin-guide-sample.jpg)
 - [Brocade FOS WebTools Admin Guide]({{ site.baseurl }}/samples/brocade-fos-webtools-admin-guide.pdf)
 - [Business Requirement Document (BRD) Sample]({{ site.baseurl }}/samples/encore-brs-sample/)
+- [User Docs — Headless CMS](https://www.contentstack.com/docs/headless-cms)
 
 ## DevEx Docs
 
@@ -28,8 +29,7 @@ Reference documentation on the [Contentstack docs site](https://www.contentstack
 - **SDK Docs** — [.NET Content Delivery SDK Reference](https://www.contentstack.com/docs/developers/sdks/content-delivery-sdk/dot-net/reference)
 - **CLI Docs** — [CLI Authentication](https://www.contentstack.com/docs/headless-cms/cli-authentication)
 
-**Related**
+**Reference Docs**
 
-- [User Docs — Headless CMS](https://www.contentstack.com/docs/headless-cms)
 - [FAQs](https://www.contentstack.com/docs/headless-cms/faqs)
 - [Troubleshooting — Installation, Initialization & Environments](https://www.contentstack.com/docs/headless-cms/installation-initialization-environments)
