@@ -38,6 +38,12 @@ A knowledge base Claude reads and writes for me, not one I maintain by hand — 
 
 - [Read the full write-up]({{ site.baseurl }}/samples/work-wiki/)
 
+### CSDocs Rewrite Agent
+
+A deterministic Claude Code agent that rewrites one existing Contentstack doc page at a time — clearer for humans, more parseable for machines — without ever changing technical meaning, renaming an API/flag/parameter, or inventing a detail that wasn't in the source. Flags anything ambiguous or suspect instead of silently fixing it.
+
+- [Read the full write-up]({{ site.baseurl }}/samples/csdocs-rewrite-agent/)
+
 ## 🧩 SKILL.md Files for the Team
 
 Created SKILL.md files for the team — reusable, structured prompts that encode writing standards so AI-assisted drafts come out consistent regardless of who runs them.
