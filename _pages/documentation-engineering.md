@@ -44,6 +44,12 @@ A deterministic Claude Code agent that rewrites one existing Contentstack doc pa
 
 - [Read the full write-up]({{ site.baseurl }}/samples/csdocs-rewrite-agent/)
 
+### CMS ↔ Git Sync UAT Feedback Portal
+
+A self-contained feedback and onboarding tool for the CMS ↔ Git sync workflow, built as an interactive Claude Artifact — writers log issues, I triage and respond in place, and a built-in team handoff guide doubles as onboarding for new writers.
+
+- [Read the full write-up]({{ site.baseurl }}/samples/uat-feedback-portal/)
+
 ## 🧩 SKILL.md Files for the Team
 
 Created SKILL.md files for the team — reusable, structured prompts that encode writing standards so AI-assisted drafts come out consistent regardless of who runs them.
