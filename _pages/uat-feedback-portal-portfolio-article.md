@@ -55,7 +55,7 @@ KPI cards surface Open, Critical, Resolved, and "Awaiting Reply" counts the mome
 
 This was the biggest gap the original version didn't solve. Every issue now has its own comment thread — viewable both in the full issue detail and in a lightweight, dedicated comments view — so a question like "can you clarify what you mean by this?" lives right next to the report it's about, instead of in a Slack DM that scrolls away. An "Awaiting Reporter Reply" flag sets and clears itself automatically as the conversation goes back and forth, so nothing silently stalls.
 
-Typing `@` in a comment brings up a picker of teammates; selecting someone sends them a direct Slack message with a link straight back to that issue and comment. Getting this right meant catching a real bug before it shipped: two people at the company share the first name "Dhaval," and two share "Aravindh" — a naive name lookup could have silently notified the wrong person. Mentions now resolve against a small, human-verified directory instead of a fuzzy search.
+Typing `@` in a comment brings up a picker of teammates; selecting someone sends them a direct Slack message with a link straight back to that issue and comment. Getting this right meant catching a real bug before it shipped: a naive name lookup could have silently notified the wrong person whenever two teammates shared a first name. Mentions now resolve against a small, human-verified directory instead of a fuzzy search.
 
 ![The dedicated Comments view for an issue, showing a threaded conversation with avatar initials and an @mention composer]({{ site.baseurl }}/assets/images/uat-portal/comments-view.png)
 
