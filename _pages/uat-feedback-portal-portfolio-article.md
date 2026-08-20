@@ -35,7 +35,7 @@ A second tab walks new writers through the actual sync architecture — a labele
 
 ## How it's built
 
-A single self-contained HTML/CSS/JS Claude Artifact — no server, no database. CSV export and Slack notifications run through the Artifact platform itself. Shaped almost entirely by real use during testing, including catching the same-name notification bug and a sandboxed-iframe quirk that had silently broken CSV export in production while working fine locally.
+A single self-contained HTML/CSS/JS Claude Artifact — no server, no database. CSV export and Slack notifications run through the Artifact platform itself. Shaped almost entirely by real use during testing, which surfaced two subtle bugs before they could affect anyone: a same-name notification collision, and a sandboxed-iframe quirk in the deployed build's CSV export.
 
 ## Status
 
